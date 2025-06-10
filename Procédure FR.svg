@@ -1,4 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" width="1062" height="504" viewBox="0 0 1062 504">
+<style>
+  @font-face {
+    font-family: 'Open Sans';
+    src: url('https://fonts.gstatic.com/s/opensans/v29/mem8YaGs126MiZpBA-UFVZ0b.woff2') format('woff2');
+  }
+  text {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600; 
+  }
+</style>
 <defs>
 <clipPath id="clip_0">
 <path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H4425V2100H0Z" clip-rule="evenodd"/>
@@ -4343,7 +4353,7 @@ adnZ9C8BIAAAAABJRU5ErkJggg=="/>
 <text fill="#ffffff" xml:space="preserve" transform="matrix(.7489946 .038821866 -.038821866 .7489946 552.1792 175.8676)" font-size="24" font-family="OpenSans" font-weight="bold"><tspan y="22" x="0">R</tspan></text>
 <text fill="#ffffff" xml:space="preserve" transform="matrix(.7485285 .046957494 -.046957494 .7485285 564.1631 176.49472)" font-size="24" font-family="OpenSans" font-weight="bold"><tspan y="22" x="0">S</tspan></text>
 
-<a xlink:href="https://www.google.com" target="_blank">
+<a xlink:href="https://grpleg.sharepoint.com/sites/SMQ2/SitePages/Strat%C3%A9gie-Achats.aspx" target="_blank">
     <text fill="#041f5c" xml:space="preserve" transform="matrix(.75 0 0 .75 118.605998 98.07446)" font-size="16" font-family="OpenSans" font-weight="bold" font-style="italic"><tspan y="15" x="-.125">S</tspan></text>
     <text fill="#041f5c" xml:space="preserve" transform="matrix(.75 0 0 .75 124.96342 98.07446)" font-size="16" font-family="OpenSans" font-weight="bold" font-style="italic"><tspan y="15" x="-.125">t</tspan></text>
     <text fill="#041f5c" xml:space="preserve" transform="matrix(.75 0 0 .75 129.88529 98.07446)" font-size="16" font-family="OpenSans" font-weight="bold" font-style="italic"><tspan y="15" x="-.125">r</tspan></text>
